@@ -23094,15 +23094,15 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 927512595}
-  m_LocalRotation: {x: -0.0045518186, y: 0.84305, z: -0.004953223, w: 0.5377931}
-  m_LocalPosition: {x: -0.7391, y: 0.51505, z: 0.32082}
+  m_LocalRotation: {x: -0.0034775212, y: 0.93305767, z: -0.0057585, w: 0.359664}
+  m_LocalPosition: {x: -1.0574454, y: 0.5098582, z: -1.2093799}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2075487896}
   m_Father: {fileID: 0}
   m_RootOrder: 8
-  m_LocalEulerAnglesHint: {x: -0.00000006830396, y: 0.3286485, z: -0.00000003979835}
+  m_LocalEulerAnglesHint: {x: 0.00000004022547, y: 0.3090065, z: 0.000004191643}
 --- !u!95 &927512597
 Animator:
   serializedVersion: 5
@@ -31188,15 +31188,15 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1313711679}
-  m_LocalRotation: {x: -0, y: 0.30885866, z: -0, w: 0.9511079}
-  m_LocalPosition: {x: 4.116911, y: 0.26699996, z: -0.2831021}
+  m_LocalRotation: {x: -0, y: 0.4242199, z: -0, w: 0.90555924}
+  m_LocalPosition: {x: 5.4951897, y: 0.88400006, z: -2.5523045}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 650672842}
   m_Father: {fileID: 0}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 35.981, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 50.203, z: 0}
 --- !u!1001 &1319900996
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -43153,10 +43153,10 @@ PlayableDirector:
   m_DirectorUpdateMode: 1
   m_InitialTime: 0
   m_SceneBindings:
-  - key: {fileID: 5803028903793283147, guid: e98a36fe2df807c49b0c1e7ed20f7d4b, type: 2}
-    value: {fileID: 927512597}
-  - key: {fileID: -4805672984055274377, guid: e98a36fe2df807c49b0c1e7ed20f7d4b, type: 2}
+  - key: {fileID: 8140999740828012128, guid: e98a36fe2df807c49b0c1e7ed20f7d4b, type: 2}
     value: {fileID: 2075487895}
+  - key: {fileID: 4857792969033037657, guid: e98a36fe2df807c49b0c1e7ed20f7d4b, type: 2}
+    value: {fileID: 927512597}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &1850124811
