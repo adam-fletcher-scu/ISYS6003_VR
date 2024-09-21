@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.17977154, g: 0.21990903, b: 0.2766251, a: 1}
+  m_IndirectSpecularColor: {r: 0.18348883, g: 0.22750959, b: 0.2968056, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -8758,6 +8758,7 @@ GameObject:
   - component: {fileID: 410087041}
   - component: {fileID: 410087040}
   - component: {fileID: 410087042}
+  - component: {fileID: 410087043}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -8834,14 +8835,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 410087039}
-  m_LocalRotation: {x: 0.45043558, y: 0.13701303, z: 0.7130454, w: 0.51952046}
+  m_LocalRotation: {x: 0.26871723, y: 0.34977794, z: 0.63628745, w: 0.63291764}
   m_LocalPosition: {x: -0.16, y: 3.34, z: 0.28}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 15.821, y: 54.649, z: 116.059}
+  m_LocalEulerAnglesHint: {x: 0.01422955, y: 0.1582679, z: 359.7988}
 --- !u!114 &410087042
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8862,6 +8863,26 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
+--- !u!95 &410087043
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 410087039}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
 --- !u!1001 &413030932
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -41202,6 +41223,8 @@ PlayableDirector:
     value: {fileID: 990382705}
   - key: {fileID: -8212995198755432643, guid: 6d4abd8a6e64053418c86e3b521afed3, type: 2}
     value: {fileID: 1556486807}
+  - key: {fileID: 1403437905266967532, guid: 6d4abd8a6e64053418c86e3b521afed3, type: 2}
+    value: {fileID: 410087043}
   m_ExposedReferences:
     m_References: []
 --- !u!95 &1957557231
