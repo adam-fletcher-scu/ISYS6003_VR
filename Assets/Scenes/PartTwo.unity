@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.13330728, g: 0.14295308, b: 0.13377441, a: 1}
+  m_IndirectSpecularColor: {r: 0.17403993, g: 0.20936981, b: 0.25277826, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -24461,7 +24461,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 1
+  m_Intensity: 2
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -24519,7 +24519,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 972489699}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.54, y: 3.164, z: -5.34}
+  m_LocalPosition: {x: -1.03, y: 3.164, z: -5.02}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -31549,6 +31549,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1313711681}
   - component: {fileID: 1313711680}
+  - component: {fileID: 1313711682}
   m_Layer: 0
   m_Name: XR Rig
   m_TagString: Untagged
@@ -31580,15 +31581,35 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1313711679}
-  m_LocalRotation: {x: -0.2555144, y: 0.31161323, z: 0.08739767, w: 0.9110276}
-  m_LocalPosition: {x: 8.422, y: 3.886, z: -1.01}
+  m_LocalRotation: {x: -0.049883135, y: 0.27640396, z: 0.011136759, w: 0.95968145}
+  m_LocalPosition: {x: 8.044, y: 1.521, z: -0.892}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 650672842}
   m_Father: {fileID: 0}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: -31.334, y: 37.766, z: 0}
+  m_LocalEulerAnglesHint: {x: -5.849, y: 32.153, z: -0.357}
+--- !u!95 &1313711682
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1313711679}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
 --- !u!1001 &1319900996
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -43557,6 +43578,8 @@ PlayableDirector:
     value: {fileID: 972489699}
   - key: {fileID: -8569428358243385040, guid: e98a36fe2df807c49b0c1e7ed20f7d4b, type: 2}
     value: {fileID: 973152113}
+  - key: {fileID: 2917350393675682747, guid: e98a36fe2df807c49b0c1e7ed20f7d4b, type: 2}
+    value: {fileID: 1313711682}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &1850124811
