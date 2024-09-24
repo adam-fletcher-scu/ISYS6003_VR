@@ -40,5 +40,9 @@ Material:
     m_Colors:
     - Albedo: {r: 0.056247775, g: 0.1509434, b: 0.15094337, a: 1}
     - bounds: {r: 10000, g: 500, b: 10000, a: 0}
+<<<<<<< HEAD
     - pos: {r: 0, g: -251.36, b: 0, a: 0}
+=======
+    - pos: {r: 0, g: -251.01003, b: 0, a: 0}
+>>>>>>> c50c7b69323ea603e75bac50d8411c2bf9a7cff5
   m_BuildTextureStacks: []
