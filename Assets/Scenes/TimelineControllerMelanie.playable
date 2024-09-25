@@ -1,6 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
-<<<<<<< Updated upstream
 --- !u!114 &-8983397467496176353
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -6004,9 +6003,6 @@ MonoBehaviour:
   m_Rotation: {x: 0, y: 0, z: 0, w: 1}
   m_ApplyOffsets: 0
 --- !u!74 &4199895610100995150
-=======
---- !u!74 &-3435117082819125847
->>>>>>> Stashed changes
 AnimationClip:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6024,18 +6020,12 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
-<<<<<<< Updated upstream
         time: 0
         value: {x: -0.0000001945848, y: 3.355937, z: -0.0000001646862}
-=======
-        time: 1.3666667
-        value: {x: -0.3621215, y: -60.11211, z: 359.7919}
->>>>>>> Stashed changes
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
         weightedMode: 0
-<<<<<<< Updated upstream
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
@@ -6281,10 +6271,6 @@ AnimationClip:
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
-=======
-        inWeight: {x: 0, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0, y: 0.33333334, z: 0.33333334}
->>>>>>> Stashed changes
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -6295,11 +6281,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-<<<<<<< Updated upstream
         value: {x: 0.0019690394, y: 0.00000047683716, z: -0.00006112456}
-=======
-        value: {x: 0.22912216, y: -0.00013494492, z: -0.00019264221}
->>>>>>> Stashed changes
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -6307,23 +6289,15 @@ AnimationClip:
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-<<<<<<< Updated upstream
         time: 7.016667
         value: {x: 0.2528326, y: -0.0006207824, z: 4.288764}
         inSlope: {x: 0, y: -0.00022557066, z: 0}
         outSlope: {x: 0, y: -0.00022557066, z: 0}
-=======
-        time: 1.3666667
-        value: {x: 20.711178, y: -0.02393198, z: -9.364637}
-        inSlope: {x: 1.7871248, y: -0.004396677, z: -3.8564358}
-        outSlope: {x: 1.7871248, y: -0.004396677, z: -3.8564358}
->>>>>>> Stashed changes
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
-<<<<<<< Updated upstream
         time: 11.016666
         value: {x: 0.21868008, y: -0.0032707453, z: 4.233886}
         inSlope: {x: -0.0014382958, y: 0, z: 0}
@@ -6794,10 +6768,6 @@ AnimationClip:
       - serializedVersion: 3
         time: 216.91667
         value: {x: -14.072129, y: 0.0053712726, z: 8.660899}
-=======
-        time: 2.6666667
-        value: {x: 21.902596, y: -0.026863098, z: -11.935595}
->>>>>>> Stashed changes
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -6838,11 +6808,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-<<<<<<< Updated upstream
     m_StopTime: 216.91667
-=======
-    m_StopTime: 2.6666667
->>>>>>> Stashed changes
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -6863,11 +6829,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-<<<<<<< Updated upstream
         value: -0.0000001945848
-=======
-        value: 0.22912216
->>>>>>> Stashed changes
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -6875,23 +6837,15 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-<<<<<<< Updated upstream
         time: 7.016667
         value: -2.679749
         inSlope: 0
         outSlope: 0
-=======
-        time: 1.3666667
-        value: 20.711178
-        inSlope: 1.7871248
-        outSlope: 1.7871248
->>>>>>> Stashed changes
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-<<<<<<< Updated upstream
         time: 11.016666
         value: 1.450086
         inSlope: 0
@@ -8148,10 +8102,6 @@ AnimationClip:
       - serializedVersion: 3
         time: 216.91667
         value: -14.072129
-=======
-        time: 2.6666667
-        value: 21.902596
->>>>>>> Stashed changes
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -8170,11 +8120,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-<<<<<<< Updated upstream
         value: 0.00000047683716
-=======
-        value: -0.00013494492
->>>>>>> Stashed changes
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -8182,23 +8128,15 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-<<<<<<< Updated upstream
         time: 7.016667
         value: -0.0006207824
         inSlope: -0.00022557066
         outSlope: -0.00022557066
-=======
-        time: 1.3666667
-        value: -0.02393198
-        inSlope: -0.004396677
-        outSlope: -0.004396677
->>>>>>> Stashed changes
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-<<<<<<< Updated upstream
         time: 11.016666
         value: -0.0032707453
         inSlope: 0
@@ -8669,10 +8607,6 @@ AnimationClip:
       - serializedVersion: 3
         time: 216.91667
         value: 0.0053712726
-=======
-        time: 2.6666667
-        value: -0.026863098
->>>>>>> Stashed changes
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -8691,11 +8625,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-<<<<<<< Updated upstream
         value: -0.00006112456
-=======
-        value: -0.00019264221
->>>>>>> Stashed changes
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -8703,23 +8633,15 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-<<<<<<< Updated upstream
         time: 7.016667
         value: 4.288764
         inSlope: 0
         outSlope: 0
-=======
-        time: 1.3666667
-        value: -9.364637
-        inSlope: -3.8564358
-        outSlope: -3.8564358
->>>>>>> Stashed changes
         tangentMode: 136
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-<<<<<<< Updated upstream
         time: 11.016666
         value: 4.233886
         inSlope: 0
@@ -9190,10 +9112,6 @@ AnimationClip:
       - serializedVersion: 3
         time: 216.91667
         value: 8.660899
-=======
-        time: 2.6666667
-        value: -11.935595
->>>>>>> Stashed changes
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -9207,66 +9125,6 @@ AnimationClip:
     path: 
     classID: 4
     script: {fileID: 0}
-<<<<<<< Updated upstream
-=======
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 1.3666667
-        value: -0.3621215
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.x
-    path: 
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 1.3666667
-        value: -60.11211
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.y
-    path: 
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 1.3666667
-        value: 359.7919
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.z
-    path: 
-    classID: 4
-    script: {fileID: 0}
->>>>>>> Stashed changes
   m_EulerEditorCurves:
   - curve:
       serializedVersion: 2
@@ -9301,22 +9159,15 @@ AnimationClip:
   m_HasGenericRootTransform: 1
   m_HasMotionFloatCurves: 0
   m_Events: []
-<<<<<<< Updated upstream
 --- !u!114 &4880410285402150839
 MonoBehaviour:
   m_ObjectHideFlags: 1
-=======
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
->>>>>>> Stashed changes
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-<<<<<<< Updated upstream
   m_Script: {fileID: 11500000, guid: 21bf7f712d84d26478ebe6a299f21738, type: 3}
   m_Name: Activation Track (5)
   m_EditorClassIdentifier: 
@@ -9468,21 +9319,6 @@ MonoBehaviour:
   m_Version: 1
   m_Rotation: {x: 0, y: 0, z: 0, w: 1}
 --- !u!114 &6315504005880591357
-=======
-  m_Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
-  m_Name: TimelineControllerMelanie
-  m_EditorClassIdentifier: 
-  m_Version: 0
-  m_Tracks:
-  - {fileID: 6251901046848906604}
-  m_FixedDuration: 0
-  m_EditorSettings:
-    m_Framerate: 60
-    m_ScenePreview: 1
-  m_DurationMode: 0
-  m_MarkerTrack: {fileID: 0}
---- !u!114 &6251901046848906604
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9507,13 +9343,8 @@ MonoBehaviour:
     m_Objects: []
   m_InfiniteClipPreExtrapolation: 1
   m_InfiniteClipPostExtrapolation: 1
-<<<<<<< Updated upstream
   m_InfiniteClipOffsetPosition: {x: -0.46016827, y: 0.7799985, z: -0.5200813}
   m_InfiniteClipOffsetEulerAngles: {x: 2.4913442, y: 154.09396, z: 359.54718}
-=======
-  m_InfiniteClipOffsetPosition: {x: -18.9, y: -6.76, z: -10.6}
-  m_InfiniteClipOffsetEulerAngles: {x: -0, y: 4.2156825, z: 3.7875047}
->>>>>>> Stashed changes
   m_InfiniteClipTimeOffset: 0
   m_InfiniteClipRemoveOffset: 0
   m_InfiniteClipApplyFootIK: 1
@@ -9524,7 +9355,6 @@ MonoBehaviour:
   m_AvatarMask: {fileID: 0}
   m_ApplyAvatarMask: 1
   m_TrackOffset: 0
-<<<<<<< Updated upstream
   m_InfiniteClip: {fileID: 4199895610100995150}
   m_OpenClipOffsetRotation: {x: 0, y: 0, z: 0, w: 1}
   m_Rotation: {x: 0, y: 0, z: 0, w: 1}
@@ -9785,9 +9615,3 @@ MonoBehaviour:
   m_Markers:
     m_Objects: []
   m_PostPlaybackState: 3
-=======
-  m_InfiniteClip: {fileID: -3435117082819125847}
-  m_OpenClipOffsetRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_Rotation: {x: 0, y: 0, z: 0, w: 1}
-  m_ApplyOffsets: 0
->>>>>>> Stashed changes
