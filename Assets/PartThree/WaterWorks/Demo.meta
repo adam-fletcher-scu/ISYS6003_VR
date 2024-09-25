@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/PartThree/WaterWorks/Demo.meta
 guid: efee5ad4fe7ebe84aa2a17c21edbaf44
+========
+guid: dd99ac090425da8418e750eea300e2cb
+>>>>>>>> Stashed changes:Assets/PartOne/Assets scene 1/MaximeBrunoni/CountryHouse/Demo.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

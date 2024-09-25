@@ -1,9 +1,13 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/ASSETS FOR PROJECT/Bublisher/3D Stylized Animated Dogs Kit/Textures/3D Stylized Animated Dogs Kit - BaseColor.png.meta
 guid: 4e613b419cc37b74486e2b7ca8caf68c
+========
+guid: e22ae1e52f5a40b4d9b12395f2ea4b24
+>>>>>>>> Stashed changes:Assets/ASSETS FOR PROJECT/Blink/Art/Animals/Stylized/Bear/Bear_Textures/Stylized_Bear_AO.png.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
@@ -23,8 +27,11 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+<<<<<<<< Updated upstream:Assets/ASSETS FOR PROJECT/Bublisher/3D Stylized Animated Dogs Kit/Textures/3D Stylized Animated Dogs Kit - BaseColor.png.meta
   vTOnly: 0
   ignoreMasterTextureLimit: 0
+========
+>>>>>>>> Stashed changes:Assets/ASSETS FOR PROJECT/Blink/Art/Animals/Stylized/Bear/Bear_Textures/Stylized_Bear_AO.png.meta
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -33,12 +40,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
-    aniso: 1
-    mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: -1
+    wrapV: -1
+    wrapW: -1
   nPOTScale: 1
   lightmap: 0
   compressionQuality: 50
@@ -56,14 +63,14 @@ TextureImporter:
   textureType: 0
   textureShape: 1
   singleChannelComponent: 0
-  flipbookRows: 1
-  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  ignorePngGamma: 0
   applyGammaDecoding: 0
+<<<<<<<< Updated upstream:Assets/ASSETS FOR PROJECT/Bublisher/3D Stylized Animated Dogs Kit/Textures/3D Stylized Animated Dogs Kit - BaseColor.png.meta
   cookieLightType: 0
+========
+>>>>>>>> Stashed changes:Assets/ASSETS FOR PROJECT/Blink/Art/Animals/Stylized/Bear/Bear_Textures/Stylized_Bear_AO.png.meta
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -77,6 +84,7 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<<< Updated upstream:Assets/ASSETS FOR PROJECT/Bublisher/3D Stylized Animated Dogs Kit/Textures/3D Stylized Animated Dogs Kit - BaseColor.png.meta
   - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
@@ -101,6 +109,8 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+========
+>>>>>>>> Stashed changes:Assets/ASSETS FOR PROJECT/Blink/Art/Animals/Stylized/Bear/Bear_Textures/Stylized_Bear_AO.png.meta
   spriteSheet:
     serializedVersion: 2
     sprites: []
@@ -114,7 +124,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+<<<<<<<< Updated upstream:Assets/ASSETS FOR PROJECT/Bublisher/3D Stylized Animated Dogs Kit/Textures/3D Stylized Animated Dogs Kit - BaseColor.png.meta
     nameFileIdTable: {}
+========
+>>>>>>>> Stashed changes:Assets/ASSETS FOR PROJECT/Blink/Art/Animals/Stylized/Bear/Bear_Textures/Stylized_Bear_AO.png.meta
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
