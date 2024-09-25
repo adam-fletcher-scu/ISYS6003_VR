@@ -288,6 +288,7 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
+<<<<<<< Updated upstream
 --- !u!114 &874841498
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -747,6 +748,8 @@ AnimationClip:
   m_HasGenericRootTransform: 1
   m_HasMotionFloatCurves: 0
   m_Events: []
+=======
+>>>>>>> Stashed changes
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -865,6 +868,7 @@ MonoBehaviour:
   m_RequiresDepthTexture: 0
   m_RequiresColorTexture: 0
   m_Version: 2
+<<<<<<< Updated upstream
 --- !u!1001 &1056021267
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1153,6 +1157,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> Stashed changes
 --- !u!1 &1717499234
 GameObject:
   m_ObjectHideFlags: 0
@@ -1246,7 +1252,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
 --- !u!114 &1717499237
 MonoBehaviour:
@@ -1268,6 +1274,7 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
+<<<<<<< Updated upstream
 --- !u!1001 &1794282106
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1337,6 +1344,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 163099117d8b97a4bb83120a495b01f9, type: 3}
+=======
+>>>>>>> Stashed changes
 --- !u!1 &1937400906
 GameObject:
   m_ObjectHideFlags: 0

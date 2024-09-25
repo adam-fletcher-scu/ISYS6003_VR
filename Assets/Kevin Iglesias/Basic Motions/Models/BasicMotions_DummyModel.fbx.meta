@@ -1,9 +1,22 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:Assets/Kevin Iglesias/Basic Motions/Models/BasicMotions_DummyModel.fbx.meta
 guid: 0e1e29b35a3700748811d120b13ed8d6
+========
+guid: 7aa7bddd099c45a4396959572fdf65da
+>>>>>>>> Stashed changes:Assets/PartOne/Assets scene 1/MaximeBrunoni/CountryHouse/Art/Meshes/Pedestal.fbx.meta
 ModelImporter:
-  serializedVersion: 22200
+  serializedVersion: 20200
   internalIDToNameTable: []
+<<<<<<<< Updated upstream:Assets/Kevin Iglesias/Basic Motions/Models/BasicMotions_DummyModel.fbx.meta
   externalObjects: {}
+========
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pedestal_mat
+    second: {fileID: 2100000, guid: 0d134cf337ef3b744977df689ad85048, type: 2}
+>>>>>>>> Stashed changes:Assets/PartOne/Assets scene 1/MaximeBrunoni/CountryHouse/Art/Meshes/Pedestal.fbx.meta
   materials:
     materialImportMode: 0
     materialName: 0
@@ -14,7 +27,6 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
-    removeConstantScaleCurves: 0
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -40,12 +52,10 @@ ModelImporter:
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
-    importPhysicalCameras: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
@@ -57,7 +67,6 @@ ModelImporter:
     skinWeightsMode: 0
     maxBonesPerVertex: 4
     minBoneWeight: 0.001
-    optimizeBones: 1
     meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
@@ -68,7 +77,6 @@ ModelImporter:
     secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    strictVertexDataChecks: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -101,8 +109,6 @@ ModelImporter:
   humanoidOversampling: 1
   avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
-  importBlendShapeDeformPercent: 1
-  remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

@@ -16,7 +16,17 @@ Material:
   m_CustomRenderQueue: 3000
   stringTagMap:
     RenderType: Transparent
+<<<<<<< Updated upstream
   disabledShaderPasses: []
+=======
+<<<<<<< HEAD
+  disabledShaderPasses: []
+=======
+  disabledShaderPasses:
+  - DepthOnly
+  - SHADOWCASTER
+>>>>>>> c096d377f035ca1dfe8dc99f4f740bef343243bc
+>>>>>>> Stashed changes
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
