@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028474, g: 0.22571576, b: 0.30692473, a: 1}
+  m_IndirectSpecularColor: {r: 0.17788331, g: 0.21635413, b: 0.26830295, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -16617,6 +16617,10 @@ PlayableDirector:
     value: {fileID: 1023084002}
   - key: {fileID: 3068354096341804227, guid: f66aa350f0023344f8de61e45da5e01c, type: 2}
     value: {fileID: 304234055}
+  - key: {fileID: 673849872932678023, guid: f66aa350f0023344f8de61e45da5e01c, type: 2}
+    value: {fileID: 1607462989}
+  - key: {fileID: 7327851976642965310, guid: f66aa350f0023344f8de61e45da5e01c, type: 2}
+    value: {fileID: 1607462991}
   m_ExposedReferences:
     m_References: []
 --- !u!4 &1110407965
@@ -25126,6 +25130,59 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1601867802}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1607462989
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1607462990}
+  - component: {fileID: 1607462991}
+  m_Layer: 0
+  m_Name: Torch
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1607462990
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1607462989}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.27119064, y: 0.39245892, z: 7.525997}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2111028504}
+  m_Father: {fileID: 0}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1607462991
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1607462989}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
 --- !u!1001 &1610607203
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33359,6 +33416,81 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 108507113624698413, guid: eebb56c82efbd8d4bb0eb6bd925a0e9d,
     type: 3}
   m_PrefabInstance: {fileID: 2104948333}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2111028503
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1607462990}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 8d7556145943c8e428a4bbdcdeede375,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d7556145943c8e428a4bbdcdeede375,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 37.201
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d7556145943c8e428a4bbdcdeede375,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.639
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d7556145943c8e428a4bbdcdeede375,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7.21
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d7556145943c8e428a4bbdcdeede375,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d7556145943c8e428a4bbdcdeede375,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d7556145943c8e428a4bbdcdeede375,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d7556145943c8e428a4bbdcdeede375,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d7556145943c8e428a4bbdcdeede375,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d7556145943c8e428a4bbdcdeede375,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d7556145943c8e428a4bbdcdeede375,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8d7556145943c8e428a4bbdcdeede375,
+        type: 3}
+      propertyPath: m_Name
+      value: Electric torch HighPoly
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8d7556145943c8e428a4bbdcdeede375, type: 3}
+--- !u!4 &2111028504 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8d7556145943c8e428a4bbdcdeede375,
+    type: 3}
+  m_PrefabInstance: {fileID: 2111028503}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2112012169
 PrefabInstance:
